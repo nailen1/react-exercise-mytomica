@@ -1,0 +1,21 @@
+[
+    {
+        "id": 3,
+        "title": "혼다-CIVIC R",
+        "content": "일본",
+        "price": "2000만원"
+    },
+    {
+        "id": 4,
+        "title": "포드-MUSTANG",
+        "content": "미국",
+        "price": "8000만원"
+    },
+    {
+        "id": 5,
+        "title": "토요타-PRIUS",
+        "content": "일본",
+        "price": "3000만원"
+    }
+
+]
